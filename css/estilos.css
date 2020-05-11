@@ -1,0 +1,31 @@
+/* Aula inicial :D */
+body 
+{
+  background-color: gray;  
+  background-image: url(https://www.dashcontroles.com.br/wp-content/uploads/2018/06/wallpaper-gamer.jpg);
+  background-size: auto 100vh;
+  font-family: arial;
+  color:whitesmoke;
+  text-align:center;
+  height: 100vh;
+}
+h2{
+  font-style:italic;
+}
+.menu{
+  background-color: black;
+}
+.menu ul{
+  display: flex;
+  justify-content: space-around;
+}
+.menu li {
+  list-style: none;
+}
+a {
+ text-decoration: none;
+ color: teal;
+}
+a:hover{
+  text-decoration: underline;
+}
