@@ -1,5 +1,10 @@
-/* Aula inicial :D */
-body 
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body
 {
   background-color: gray;  
   background-image: url(https://www.dashcontroles.com.br/wp-content/uploads/2018/06/wallpaper-gamer.jpg);
