@@ -25,6 +25,8 @@ body
 
 @media (min-width: 600px) {
   body {
+      background-image:none;
+    background-color:pink;
     font-size: 22px;
   }
 }
